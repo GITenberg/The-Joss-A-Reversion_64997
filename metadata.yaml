@@ -1,0 +1,26 @@
+_repo: The-Joss-A-Reversion_64997
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marsh, Richard
+    aliases:
+    - Heldman, Richard Bernard
+    - Heldmann, Bernard
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '1718'
+    url: http://www.gutenberg.org/2009/agents/1718
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Marsh_%28author%29
+description: ''
+gutenberg_issued: '2021-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Joss: A Reversion'
+url: http://www.gutenberg.org/ebooks/64997
